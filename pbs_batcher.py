@@ -84,7 +84,7 @@ def commands_from_template(template, values_tsv, sh_dir=None):
 if __name__ == "__main__":
 
     # Command line args
-    parser = argparse.ArgumentParser(description='PBS batcher')
+    parser = argparse.ArgumentParser(description='PBS batcher. See https://github.com/MayroseLab/PBS_batcher for details.')
     parser.add_argument('-j', '--jobs', type=int, required=True, help='Batch size (max number of jobs')
     parser.add_argument('--sh_list', default=None, help='Path to file containing list of sh files')
     parser.add_argument('--template', default=None, help='Path to template file')
