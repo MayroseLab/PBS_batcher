@@ -1,0 +1,10 @@
+/groups/itay_mayrose_nosnap/liorglic/Projects/intron_evolution/python/test/sh_dir/job0.sh
+/groups/itay_mayrose_nosnap/liorglic/Projects/intron_evolution/python/test/sh_dir/job1.sh
+/groups/itay_mayrose_nosnap/liorglic/Projects/intron_evolution/python/test/sh_dir/job2.sh
+/groups/itay_mayrose_nosnap/liorglic/Projects/intron_evolution/python/test/sh_dir/job3.sh
+/groups/itay_mayrose_nosnap/liorglic/Projects/intron_evolution/python/test/sh_dir/job4.sh
+/groups/itay_mayrose_nosnap/liorglic/Projects/intron_evolution/python/test/sh_dir/job5.sh
+/groups/itay_mayrose_nosnap/liorglic/Projects/intron_evolution/python/test/sh_dir/job6.sh
+/groups/itay_mayrose_nosnap/liorglic/Projects/intron_evolution/python/test/sh_dir/job7.sh
+/groups/itay_mayrose_nosnap/liorglic/Projects/intron_evolution/python/test/sh_dir/job8.sh
+/groups/itay_mayrose_nosnap/liorglic/Projects/intron_evolution/python/test/sh_dir/job9.sh
