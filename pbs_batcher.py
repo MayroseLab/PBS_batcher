@@ -77,7 +77,8 @@ def commands_from_template(template, values_tsv, sh_dir=None):
                 print(job_text, file=fo)
             cmd = f'qsub {sh_file}'
         else:
-            cmd = f'qsub <<< {job_text}'
+            #cmd = f'qsub <<< "{job_text}"'.encode('unicode_escape')
+            cmd = f'qsub <<< "{job_text}"'
         commands_list.append(cmd)
     return commands_list
 
